@@ -1,0 +1,30 @@
+body {
+	color: lightskyblue;
+
+	background-color: black;
+
+	font-size: 24px;
+}
+
+a {
+	color: gold;
+}
+
+h1 {
+	font-family: century gothic;
+	border-width: 6px;
+	border-style: solid;
+	border-radius: 22px;
+	padding: .5em 1em;
+	display: inline-block;
+}
+
+p {
+	font-family: century gothic;
+	font-size: 1.2em;
+}
+
+div#container{
+	margin: 0 auto;
+	max-width: 1950px;
+}
