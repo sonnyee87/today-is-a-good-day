@@ -28,3 +28,11 @@ div#container{
 	margin: 0 auto;
 	max-width: 1950px;
 }
+
+img {
+	width: 30%;
+}
+
+video {
+	width: 30%;
+}
